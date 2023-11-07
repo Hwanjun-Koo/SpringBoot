@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae105b0-69f2-4097-a561-6e40d425f699" name="변경" comment="" />
+    <list default="true" id="4ae105b0-69f2-4097-a561-6e40d425f699" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/스프링 핵심 원리 - 기본/스프링 핵심 원리 - 기본.md" beforeDir="false" afterPath="$PROJECT_DIR$/스프링 핵심 원리 - 기본/스프링 핵심 원리 - 기본.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +27,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/kooju/OneDrive/바탕 화면/학교/자연어처리/FeelIT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,6 +44,8 @@
       <option name="presentableId" value="Default" />
       <updated>1698927170658</updated>
       <workItem from="1698927172741" duration="8000" />
+      <workItem from="1698933504226" duration="904000" />
+      <workItem from="1698934442298" duration="1216000" />
     </task>
     <servers />
   </component>
